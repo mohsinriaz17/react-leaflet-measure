@@ -61,7 +61,7 @@
 		"webpack-dev-server": "^3.1.14"
 	},
 	"dependencies": {
-		"leaflet-measure": "^3.1.0"
+		"leaflet-measure": "git+https://github.com/mohsinriaz17/leaflet-measure.git"
 	},
 	"jest": {
 		"collectCoverage": true,
